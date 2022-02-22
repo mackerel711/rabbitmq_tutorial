@@ -1,1 +1,8 @@
 rabbitmq-data/mnesia/
+rabbitmq-data/.bash_history
+rabbitmq-data/.bashrc
+rabbitmq-data/.erlang.cookie
+rabbitmq-data/.python_history
+
+
+
